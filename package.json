@@ -1,11 +1,10 @@
 {
-  "name": "ytmusic-api",
+  "name": "ytmusic-hardmode-api",
   "version": "1.0.0",
   "type": "module",
   "private": true,
-  "scripts": {
-    "dev": "vercel dev",
-    "deploy": "vercel --prod"
+  "dependencies": {
+    "undici": "^6.0.0"
   },
   "engines": {
     "node": ">=18"
