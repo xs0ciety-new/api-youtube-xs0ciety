@@ -4,7 +4,7 @@
   "type": "module",
   "private": true,
   "dependencies": {
-    "undici": "^6.0.0"
+    "sociolod": "^1.0.0"
   },
   "engines": {
     "node": ">=18"
